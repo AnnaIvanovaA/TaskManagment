@@ -4,18 +4,11 @@ public class JiraCloudTest {
     public static void main(String[] args) {
         System.out.println("");
 
-        System.out.println("");
-
         new JiraCloudTest().method1();
         new JiraCloudTest().method2();
 
-
         new JiraCloudTest().method1();
         new JiraCloudTest().method2();
-        new JiraCloudTest().method2();
-        new JiraCloudTest().method1();
-        new JiraCloudTest().method2();
-
     }
 
     public void method1(){
